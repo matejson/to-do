@@ -1,7 +1,7 @@
 var tasks = [
 	'Wyjść z psem',
 	'Nauczyć się JS',
-	'Popływać',
+	'Zapisać dane w local storage',
 	'Zacząć używać sticky notes'
 ];
 
