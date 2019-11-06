@@ -10,3 +10,4 @@ ToDo App displays a list of tasks to be performed. Tasks are divided into done a
 
 
 # Preview
+<a href="https://media.giphy.com/media/dAib4oG3LdAPROmdZK/giphy.gif"><img src="https://media.giphy.com/media/dAib4oG3LdAPROmdZK/giphy.gif" width="650"></a>
